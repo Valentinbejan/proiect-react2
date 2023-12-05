@@ -4,7 +4,7 @@
 
 
 
-Pagina interactiva
+Am dezvoltat o pagină interactivă în React, care prezintă exemple de date distincte în funcție de butoanele apăsate.
 
 
 https://github.com/Valentinbejan/proiect-react2/assets/118570823/75a83a04-8537-4677-b5e7-d791f09d0eb6
